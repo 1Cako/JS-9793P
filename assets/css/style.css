@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin-top: 100px;
+}
+.container h3{
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px #AFC8F5;
+}
+.click-btn{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0px;
+}
+.click-btn:hover{
+    color: white;
+    background-color: black;
+}
+audio{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+}
+section{
+    margin-top: 100px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+section h4{
+    color: white;
+}
+section a{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
